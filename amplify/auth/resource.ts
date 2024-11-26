@@ -1,6 +1,5 @@
-import { defineAuth } from "@aws-amplify/backend";
+/*import { defineAuth } from "@aws-amplify/backend";
 
-/*
 export const auth = defineAuth({
   loginWith: {
     email: {
@@ -13,7 +12,6 @@ export const auth = defineAuth({
 }); 
 
 */
-
 import { defineAuth } from "@aws-amplify/backend"
 
 /**
